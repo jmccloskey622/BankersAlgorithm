@@ -1,0 +1,2 @@
+C:\Users\Jrm20\source\repos\BankersAlgorithm\Debug\BankersAlgorithm.exe
+C:\Users\Jrm20\source\repos\BankersAlgorithm\Debug\BankersAlgorithm.pdb
